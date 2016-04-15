@@ -1,0 +1,363 @@
+
+img {max-width:100% !important;}
+img, object, embed, video {
+	max-width: 100%;
+}
+body, html {font-family:Arial !important;}
+.ui-accordion-icons {color: #79b5ad; position: relative;}
+.ui-accordion-header-active {color: #ffffff;cursor: pointer;  padding-left: 10px; width: 95%;}
+.ui-icon-triangle-1-e{background: url("../images/plus.png") no-repeat scroll left top !important;}
+.ui-icon-triangle-1-s{background: url("../images/plus.png") no-repeat scroll left bottom !important;}
+
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {max-width:100%;}
+sup {width:75%; z-index:-9999999. color:#333333;}	
+.logo {float:right !important; margin:2% 0%;}
+.header_contain {width:100%;}
+.contain_left {margin: 0 auto; width: 937px;}
+.contain_left_cont {width:55%; float:left;  }
+.blue {color:#4399d0 !important; font-size:22px; margin:24% 0% 0% 0%; line-height:2em; }
+.white {color:#ffffff;  font-size:22px; margin:0% 0% 3% 0%; line-height:1.2em;}
+.discover {float:right; margin:1%;}
+.card_section{width:100%; height:168px;}
+.contain_card { float: left; font-size: 16px; line-height: 21px; margin:0 6% 3% 2%; padding-top: 4%;  width: 97%;}
+.black {background:#545355;}
+.amex {padding:4% 0 2%; }
+.font-14 {font-size:13px; }
+.font-14 li{font-size:13px; line-height:19px; margin:14px 0px;}
+.font-13 {font-size:13px;}
+.font-13 li{font-size:13px; line-height:19px; margin:14px 0px;}
+.font-13 li{font-size:13px; line-height:19px; margin:15 px 0px;}
+.travel_bng {background:#a2dcea !important; margin-top:-1px;}
+
+.navbar .nav{background:#676668}
+.navbar-fixed-top .navbar-inner{height:42px; }
+a.btn.btn-navbar {margin-top:8px;}
+
+.skyblue .navbar-fixed-top .navbar-inner, .skyblue .navbar .nav, .skyblue .nav-collapse .nav > li{background:#81b0ba;color: border-right:1px solid #cccccc; margin:auto;}
+.skyblue .nav-collapse .nav > li a{color:#ffffff; background:#81b0ba;}
+.skyblue .nav-collapse .nav > li a:hover{color:#ffffff; background:#83c6d4;}
+
+.health_color .navbar-fixed-top .navbar-inner, .health_color .navbar .nav, .health_color .nav-collapse .nav > li{background:#aec890; border-right:1px solid #d3d3d3;}
+.health_color .nav-collapse .nav > li a{color:#ffffff; background:#aec890;}
+.health_color .nav-collapse .nav > li a:hover{color:#ffffff; background:#bfd3a7;}
+
+.health_ld .navbar-fixed-top .navbar-inner, .health_ld .navbar .nav, .health_ld .nav-collapse .nav > li{background:#93c2bc; border-right:1px solid #d3d3d3;}
+.health_ld .nav-collapse .nav > li a{color:#ffffff; background:#93c2bc;}
+.health_ld .nav-collapse .nav > li a:hover{color:#ffffff; background:#a9d0ca;}
+
+.lounge_menu .navbar-fixed-top .navbar-inner, .lounge_menu .navbar .nav, .lounge_menu .nav-collapse .nav > li{background:#c3bdaa; border-right:1px solid #d3d3d3;}
+.lounge_menu .nav-collapse .nav > li a{color:#ffffff; background:#c3bdaa;}
+.lounge_menu .nav-collapse .nav > li a:hover{color:#ffffff; background:#cfcabb;}
+
+.membership_menu .navbar-fixed-top .navbar-inner, .membership_menu .navbar .nav, .membership_menu .nav-collapse .nav > li{background:#a998a9; border-right:1px solid #d3d3d3;}
+.membership_menu .nav-collapse .nav > li a{color:#ffffff; background:#a998a9;}
+.membership_menu .nav-collapse .nav > li a:hover{color:#ffffff; background:#baadba;}
+
+.golf_menu .navbar-fixed-top .navbar-inner, .golf_menu .navbar .nav, .golf_menu .nav-collapse .nav > li{background:#8da362; border-right:1px solid #d3d3d3;}
+.golf_menu .nav-collapse .nav > li a{color:#ffffff; background:#8da362;}
+.golf_menu .nav-collapse .nav > li a:hover{color:#ffffff; background:#a4b684;}
+
+
+.fine_dinning_menu .navbar-fixed-top .navbar-inner, .fine_dinning_menu .navbar .nav, .fine_dinning_menu .nav-collapse .nav > li{background:#fbbc6f; border-right:1px solid #d3d3d3;}
+.fine_dinning_menu .nav-collapse .nav > li a{color:#ffffff; background:#fbbc6f;}
+.fine_dinning_menu .nav-collapse .nav > li a:hover{color:#ffffff; background:#fcc88c;}
+
+.Concierge_menu .navbar-fixed-top .navbar-inner, .Concierge_menu .navbar .nav, .Concierge_menu .nav-collapse .nav > li{background:#7159a5; border-right:1px solid #d3d3d3;}
+.Concierge_menu .nav-collapse .nav > li a{color:#ffffff; background:#7159a5;}
+.Concierge_menu .nav-collapse .nav > li a:hover{color:#ffffff; background:#8e7ab7;}
+
+.font-11 {font-size:11px;}
+.gray {background:#e5e5e5; height:100%;}
+.travel {width:230px; height:232px;}  
+.travel h2{font-size:24px; color:#ffffff; padding:25px;}  
+.travel img {font-size:24px; color:#ffffff; } 
+.menu_box { width:100%;}
+.menu_box li{ float:left; list-style:none;}
+.red {background:#a1dce9;  margin-top:-1px;}
+.dard_red {background:#79b5ad;  margin-top:-1px;}
+.yellow {background:#bcb59d;  margin-top:-1px;}
+.light_green {background:#c2dfa0; margin-top:-1px;}
+.dark_green {background:#869a6f; margin-top:-1px; color:#ffffff !important}
+.blue_green {background:#79b5ad;  margin-top:-1px;}
+.light_blue {background:#faaa4b;  margin-top:-1px;}
+.pencil_color {background:#947e93;  margin-top:-1px;}
+.parpal {background:#4e2f8e; margin-top:-1px;}
+.travel_img {width:50%; float:left; margin:13% 0% 0% 0%}
+.arrow {width:10%; float:right; margin:29% 5% 0% 5%}
+
+.lodging  {width:230px; height:173px;} 
+.lodging h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.lodging_img {width:80%; float:left; margin:-7% 0% 0% 0%} 
+.lodging_arrow {width:10%; float:right; margin:4% 5% 0% 5%}
+
+.enhanced  {width:230px; height:159px;} 
+.enhanced h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.enhanced_img {width:80%; float:left; margin:-14% 0% 0% 0%} 
+.enhanced_arrow {width:10%; float:right; margin:2% 5% 0% 5%}
+
+.enhanced  {width:230px; height:160px;} 
+.enhanced h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.enhanced_img {width:80%; float:left; margin:-9% 0% 0% 0%} 
+.enhanced_arrow {width:10%; float:right; margin:8% 5% 0% 5%}
+
+.Health  {width:230px; height:202px;} 
+.Health h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.Health_img {float: left; margin:5% 0 0; width: 80%;} 
+.Health_arrow {width:10%; float:right; margin:25% 5% 0% 5%}
+.new {float:right; position:absolute; margin:24px 0 0 160px;}
+
+.golf  {width:230px; height:159px; margin:-13% 0 0 0; background:#6f8c3a;} 
+.golf h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.golf_img {float: left; margin:-5% 0 0; width: 80%;} 
+.golf_arrow {width:10%; float:right; margin:10% 5% 0% 5%}
+
+.Fine  {height: 173px;  margin-top: -59px;  width: 230px;} 
+.Fine h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px;  line-height:26px;}  
+.Fine_img {float: left; margin:17% 0 0; width: 80%;} 
+.Fine_arrow {width:10%; float:right; margin:27% 5% 0% 5%}
+
+.Membership  { height: 186px;margin-top: -72px;  width: 230px;} 
+.Membership h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px;  line-height:26px;}  
+.Membership_img {float: left; margin:-4% 0 0; width: 80%;} 
+.Membership_arrow {width:10%; float:right; margin:19% 5% 0% 5%}
+
+.Concierge  {width:230px; height:161px;  margin-top:-31px;} 
+.Concierge h2{font-size:24px; color:#ffffff; padding:20px 20px 20px 32px; line-height:26px;}  
+.Concierge_img {float: left; margin:-5% 0 0; width: 80%;} 
+.Concierge_arrow {width:10%; float:right; margin:8% 5% 0% 5%}
+.shodow { margin-top: 67px; position: absolute; z-index: 1;}
+.apply{ margin:30px 0 20px 0; float:left ;}
+.tnc { float: right; font-size: 12px; margin-top: 34px;  width: 444px;}
+
+/*fine dinning*/
+.orange {background:#faaa4b; margin-top:-1px;}
+.orange_text {color:#faaa4b;}
+.menu_orange { background:#fbbb6f;}
+.resver {float:left; margin:20px;}
+.fine{line-height:30px; margin-left:20px;}
+.fine2{line-height:30px; margin-left:33px;}
+
+.fine_di{line-height:20px;}
+.select {float:right;}
+.font-12 {font-size:12px !important;}
+.font-10 {font-size:10px !important;}
+.choosing {width:90%; float:left; font-size:14px;}
+.right {float:right; margin-top:10px;}
+.dinning_img {float: left; margin-top: 3%; }
+.dinning { float: left; font-size: 16px; line-height: 19px; margin:0 6% 3% 3%; padding-top: 3%;  width: 82%;}
+.Concierge_Service { float: left; font-size: 16px; line-height: 21px; margin:0 6% 0% 2%; padding-top: 3%;  width: 82%;}
+
+.line  {width:100%; height:4px; background:#414042;}
+.back {font-size:13px; line-height:18px; color:#575757; margin-top:15px; height:10px; }
+
+/*fine dinning end*/
+
+/* golf start*/
+.light_grey {background:#a7a7a7;}
+.green {color:#6f8c3a !important;}
+.green_bg{background:#6f8c3a !important;}
+.city_name {width:150px; float:left}
+.city_name li{ list-style:none; height:20px; font-size:13px; color:#6f8c3a; padding:5px 0 0 10px; font-weight:bold;}
+
+.city_contain {width:auto; float:left; }
+.city_contain li{ height:20px; font-size:13px; padding:5px 0 0 10px; list-style:none;}
+
+images. { margin-top:100px;}
+
+/* golf end*/
+
+
+/* health start*/
+.health_green {color:#869a6f;}
+.health {width:100%; }
+.health li{  font-size: 13px;  line-height: 19px; margin: 14px 0; }
+.none { list-style:none; margin-left:10px;}
+.none2 { list-style:none; margin-left:40px !important;}
+.none3 { list-style:none; margin-left:-20px !important;}
+.yoga {float: left;width: 100%;}
+.yoga li {  float: left;  font-size: 13px;  width: 23%; list-style-type:disc !important;}
+
+/* health end*/
+
+/* landing start*/
+.landing_blue {color:#79b5ad;}
+/* health end*/
+
+/* health landing start*/
+.health_ladning {color:#869a6f !important;}
+/* health end*/
+
+/* lounge landing start*/
+.lounge {color:#b5ae96 !important;}
+.lounge_bg {background:#b5ae96; margin-top:-1px;}
+.menu {margin:auto;}
+
+/* lounge end*/
+
+/* membership landing start*/
+.membership_13 { margin-left:15px; font-size:13px; line-height:20px;}
+.membership_13 li{ margin:10px 0px;}
+.membership {color:#947e93 !important;}
+.parpal2 {background:#947e93; height:100%;}
+/* membership end*/
+
+/* travel landing start*/
+.make_my_trip {float:right; margin-bottom:30px;}
+.travel_landing {color:#81b0ba !important;}
+.travel_blue{background:#a1dce9; height:100%;}
+
+
+/* membership end*/
+
+/* travel landing start*/
+.Concierge_landing  {color:#4e2f8e !important;}
+.Concierge_bg{background:#4e2f8e; height:100%; margin-top:-1px; }
+.Concierge_head{background:#735ba6; height:100%; font-size:12px; color:#FFF; line-height:31px; }
+.dark{background:#4e2f8e;}
+.Concierge_cont{font-size:13px; color:#FFF; line-height:31px; margin:10px 0 0 0px; color:#333333; list-style:none;}
+.Concierge_cont li{color: #333333; font-size: 13px; line-height: 20px; list-style: none outside none; margin: 16px 0 0 10px;}
+.line16 {line-height:20px;}
+
+.main_box_contain {width:95%; padding:20px; border:1px solid #ccc; margin:auto;}
+.col-section1 {width:221px; display:inline-block; border:1px solid #CCC; margin:10px 10px; background:#ffffff; vertical-align:top; height:360px; float:left;}
+.secton_img {border-bottom: 1px solid; padding-bottom: 26px;  padding-top: 20px;  text-align: center;}
+h3{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#333333; margin:30px 30px 10px 30px; line-height: 20px; }
+.keya {font-size:14px; color:#333; line-height:16px; text-align:left; font-family:Arial, Helvetica, sans-serif; padding:0 30px 30px 30px;}
+.head {width:100%; height:10px; background:#faaa4b;}
+
+
+
+/* membership end*/
+
+@media only screen and (max-width: 768px){ 
+.navbar-fixed-top, .navbar-fixed-bottom { width:99% !important;}
+.logo {float:right !important; margin:7% 0%;}
+.dinning { float: left; font-size: 16px; line-height: 21px; margin:0 6% 3% 4%; padding-top: 3%;  width: 82%;}
+.dinning_img {float:left !important; width:8%;}
+.contain_left { margin:auto;}
+.font-11 {font-size:13px !important;}
+.font-12 {font-size:12px !important;}
+.header_contain {width:100%; }
+.contain_left_cont {width:100%; float:left;}
+.contain_left {margin: 0 auto; width: auto;}
+
+.menu_box { width:100%;}
+.menu_box li{ float:left; list-style:none; width:100%}
+
+.travel {width:100% !important; height:172px;}  
+.travel h2{font-size:24px; color:#ffffff; padding:25px;}  
+.travel img {font-size:24px; color:#ffffff; } 
+.travel_img {width:50%; float:left; margin:0% 0% 0% 0%}
+.arrow {width:10%; float:right; margin:5% 5% 0% 5%}
+
+
+.lodging  {width:100% !important; height:173px;} 
+.lodging h2{color: #ffffff; font-size: 25px; line-height: 31px; padding: 20px;}  
+.lodging_img {width:100%; float:left; margin:-1% 0% 0% 0%} 
+.lodging_arrow {width:10%; float:right; margin:-6% 5% 0% 5%}
+
+.enhanced  {width:100% !important; height:159px;} 
+.enhanced h2{font-size:24px; color:#ffffff; padding:20px; line-height:26px;}  
+.enhanced_img {width:100% !important; float:left; margin:-4% 0% 0% 0%} 
+.enhanced_arrow {width:10%; float:right; margin:-6% 5% 0% 5%}
+
+.Health  {width:100% !important; height:271px;} 
+.Health h2{font-size:24px; color:#ffffff; padding:20px; line-height:26px;}  
+.Health_img {float: left; margin:-1% 0 0; width: 80%;} 
+.Health_arrow {width:10%; float:right; margin:5% 5% 0% 5%}
+.new {float:right; position:absolute !important; margin:2% 0 0 85%;}
+
+.golf  {width:100% !important; height:175px; margin:-13% 0 0 0;} 
+.golf h2{font-size:24px; color:#ffffff; padding:20px; line-height:26px;}  
+.golf_img {float: left; margin:0% 0 0; width: 80%;} 
+.golf_arrow {width:10%; float:right; margin:5% 5% 0% 5%}
+
+.Fine  { width:100% !important; height: 173px; margin-top: -59px; margin:0px !important} 
+.Fine h2{font-size:24px; color:#ffffff; padding:20px;  line-height:26px;}  
+.Fine_img {float: left; margin:3% 0 0; width: 80%;} 
+.Fine_arrow {width:10%; float:right; margin:9% 5% 0% 5%}
+
+.Membership  { height: 186px;width:100% !important; margin:0px !important; clear:both;} 
+.Membership h2{font-size:24px; color:#ffffff; padding:20px;  line-height:26px;}  
+.Membership_img {float: left; margin:-2% 0 0; width: 80%;} 
+.Membership_arrow {width:10%; float:right; margin:7% 5% 0% 5%}
+
+.Concierge  {width:100% !important;height:186px;clear:both; margin-top:0px;} 
+.Concierge h2{font-size:24px; color:#ffffff; padding:20px; line-height:26px;}  
+.Concierge_img {float: left; margin:0% 0 0; width: 80%;} 
+.Concierge_arrow {width:10%; float:right; margin:7% 5% 0% 5%}
+
+.shodow {margin-top: 52px; position: absolute;z-index: -99999; width:95%;}
+.lighter_greeen {background:#c2dfa0;}
+.yoga {float: left;width: 100%;}
+.yoga li {  float: left; font-size: 13px; line-height: 19px; margin: 14px 0; width: 25%; list-style:circle;}
+.resver img{float:left; margin:20px; width:100% !important;}
+.make_my_trip {float:right; margin-bottom:30px; width:35%;} 
+p {font-size:12px; }
+.Concierge_cont{font-size:13px; color:#FFF; line-height:31px; margin:10px 0 0 20px; color:#333333; list-style:none;}
+.Concierge_cont li{ margin:15px 10px 15px 20px;}
+.tnc { float: right; font-size: 12px;  width:100%;}
+.col-section1 {width:50%; float:left; border:1px solid #CCC; margin:10px 0px; background:#ffffff;}
+.secton_img {text-align:center;}
+h3{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#333333; margin:30px 30px 10px 30px; }
+.keya {font-size:14px; color:#333; line-height:16px; text-align:left; font-family:Arial, Helvetica, sans-serif; padding:0 30px 30px 30px;}
+}
+
+@media only screen and (max-width: 360px){
+.lodging h2{color: #ffffff; font-size: 25px; line-height: 31px;}	
+.Concierge_Service {float: left; font-size: 16px; line-height: 21px; margin: 0 6% 0 4%; padding-top: 3%;  width: 92%;}
+.logo {float:right !important; margin:12% 3%; width:24% }
+.resver {float:left; margin:20px; width:50%;}
+.resver img {float:left; margin:20px 20px 20px -11px;}
+.logo img{float:right !important; margin:2% 3%; width:75%;}
+.contain_left {width:100%; margin:auto;}
+.font-11 {font-size:13px !important;}
+.header_contain {float: left; width: 96%; }
+.contain_left_cont {width:100%; float:left;}
+.arrow {width:10%; float:right; margin:13% 5% 0% 5%}
+.lodging_arrow {width:10%; float:right; margin:-11% 5% 0% 5%}
+.enhanced_arrow {width:10%; float:right; margin:-13% 5% 0% 5%}
+.Health  {width:100% !important; height:224px;} 
+.Health_arrow {width:10%; float:right; margin:12% 5% 0% 5%}
+.golf_arrow {width:10%; float:right; margin:12% 5% 0% 5%}
+.Fine_arrow {width:10%; float:right; margin:17% 5% 0% 5%}
+.Membership_arrow {width:10%; float:right; margin:15% 5% 0% 5%}
+.Concierge_arrow {width:10%; float:right; margin:15% 5% 0% 5%}
+.contain_card { float: left; font-size: 14px; line-height: 17px; margin:0 6% 3% 2%; padding-top: 4%;  width: 97%;}
+.fine{margin-left:20px; line-height:24px;}
+.city_contain {width:auto; float:left; margin-bottom:30px; width:95%;}
+.city_contain li{ list-style:none; height:20px; font-size:13px; padding:5px 0 0 10px; display:inline-block;}
+.yoga {float: left;width: 100%;}
+.yoga li {  float: left;  font-size: 13px;  width: 50%;}
+.membership_logo img {width:100%;}
+.new {float:right !important; position:absolute !important; margin:2% 0 0 78%;}
+.contain_left {margin: 0 auto; width: auto;}
+
+.font-12 {font-size:12px !important;}
+.font-11 {font-size:11px !important;}
+p {font-size:11px; padding:0px 0px;}
+.Concierge_landing {  color: #4e2f8e !important; font-size: 19px; line-height: 26px; }
+.Concierge_cont li {color: #333333; font-size: 13px; line-height: 20px; list-style: none outside none; margin: 16px 0 0 0px;}
+.none2 { list-style:none; margin-left:20px !important;}
+.dinning_img {float:left !important; width:17%;}
+.right {float: right;  margin: 10px 0 0; width: 41%;}
+
+.tnc { float: right; font-size: 12px;  width: 472 !important;}
+.col-section1 {width:100%; float:left; border:1px solid #CCC; margin:10px 0px; background:#ffffff;}
+.secton_img {text-align:center;}
+h3{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#333333; margin:30px 30px 10px 30px; }
+.keya {font-size:14px; color:#333; line-height:16px; text-align:left; font-family:Arial, Helvetica, sans-serif; padding:0 30px 30px 30px;}
+}
+
+
+@media only screen and (max-width: 320px){
+
+.new {float:right !important; position:absolute !important; margin:2% 0 0 75%;}
+.tnc { float: right; font-size: 12px;  width: 472 !important;}
+.margin-20 {margin-top:20px !important;}
+
+}
+
+
+
